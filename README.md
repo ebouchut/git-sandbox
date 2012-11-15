@@ -1,4 +1,4 @@
-gitsandbox
+My Git Sandbox
 ==========
 
 A place where I test git and github stuff.
