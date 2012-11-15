@@ -4,7 +4,8 @@ gitsandbox
 A place where I test git and github stuff.
 
 
-== How to Convert a Github issue into a pull-request
+How to Convert a Github issue into a pull-request
+-----
 Brandon Keepers' [blog post][issue-pullrequest] explains how to do this using hub.
 
 
