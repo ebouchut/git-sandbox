@@ -1,4 +1,4 @@
 gitsandbox
 ==========
 
-A place where I test git and github related
+A place where I test git and github stuff.
