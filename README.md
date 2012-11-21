@@ -14,6 +14,9 @@ How to have local versions of tracked config files in git
 Antony Male's  [gist][local-config-file-git] explains how to 
 have local versions of tracked configuration files in git.
 
+Thomas Rast has a very interesting [post][local-config-branches]  about _local configuration branches_.
+
+
 [issue-pullrequest]: http://opensoul.org/blog/archives/2012/11/09/convert-a-github-issue-into-a-pull-request/ 
   "Convert a Github Issue into a Pull Request"
 
@@ -22,3 +25,6 @@ have local versions of tracked configuration files in git.
 
 [local-config-file-git]: https://gist.github.com/1423106
   "How to have local versions of tracked config files in git"
+
+[local-config-branches]: http://thomasrast.ch/git/local-config.html
+  "Local Configuration Branches"
